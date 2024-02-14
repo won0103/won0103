@@ -1,10 +1,10 @@
-### Hi there 👋
+![소개](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=안녕하세요.%20)
 
 <!--
 **won0103/won0103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- ### Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
